@@ -1,4 +1,4 @@
-# ETL Project
+# Extract, Transform, Load
 
 ## Team Members
 
